@@ -5,13 +5,14 @@
 - 🙌 Frameworks like React.js, React Native, and Expo.
 - 😃 I am aware of the Backend service offered by firebase.
 - 🤓 I have also worked with database systems such as MySQL, PostgreSQL, FireStore.
+
 <br />
 
 
 ## Idiomas y Herramientas
 <br />
 
-<p align="centro">
+<p align="center">
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/> </a >
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/> </a >
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/> </a >
@@ -28,10 +29,9 @@
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> </a >
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/> </a >
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/> </a >
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/></a>
+    <a href="" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/></a>
 </p>
 <br />
-## Ultimos proyectos
-<br/>
-![](./assets/logo.png)
+## Idiomas y Herramientas
+<br />
