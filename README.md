@@ -33,5 +33,14 @@
     <a href="" target="_blank"> <img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/></a>
 </p>
 <br />
-## Idiomas y Herramientas
+    
+    
+## Ultimos proyectos
 <br />
+
+![](./assets/logo.png)
+    
+- Canine Encyclopedia is an application focused on providing information to the user about the care of their pet.    
+- In the search section you can find the breed of your pet, care, food and part of history.
+- know more about this application.....
+    - <a href="https://play.google.com/store/apps/details?id=comm.examplee.luisi.conocetumascota&hl=es" target="_blank">👉 aplicacion android Enciclopedia canina</a>
